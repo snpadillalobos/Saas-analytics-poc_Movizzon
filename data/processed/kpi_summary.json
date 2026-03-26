@@ -1,0 +1,17 @@
+{
+  "total_users": 2500,
+  "active_users": 1590,
+  "activation_rate": 0.636,
+  "avg_mrr_last3m": 35167.15,
+  "total_revenue": 481036.37,
+  "tx_success_rate": 0.9583,
+  "global_error_rate": 0.0943,
+  "upgrade_cvr": 0.0747,
+  "retention": {
+    "M0": "100.0%",
+    "M1": "144.3%",
+    "M3": "123.6%",
+    "M6": "100.2%",
+    "M12": "51.5%"
+  }
+}
